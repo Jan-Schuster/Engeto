@@ -3,12 +3,6 @@
 '''
 projekt_2.py: druhý projekt do Engeto Online Python Akademie
 
-ten portál mi nechtěl vzít url
-https://github.com/Jan-Schuster/Engeto/blob/main/projekty/
-
-každopádně v té výše uvedené složce je project_2_module.py file,
-ve kterém jsou ty funkce
-
 autor: Jan Schuster
 email: schuster.jan@seznam.cz
 '''
